@@ -21,6 +21,10 @@
 
 ## 如何使用
 
+```bash
+curl https://raw.githubusercontent.com/tombfire/AnyTLS-Go/refs/heads/main/anytls_manager.sh|bash
+```
+
 ### 1. 下载脚本
 
 你可以通过以下任一命令下载脚本：
