@@ -22,7 +22,7 @@
 ## 如何使用
 
 ```bash
-curl https://raw.githubusercontent.com/tombfire/AnyTLS-Go/refs/heads/main/anytls_manager.sh|bash
+curl https://raw.githubusercontent.com/TOMBFIRE/AnyTLS-Go-Script/refs/heads/main/anytls_manager.sh|bash
 ```
 
 ### 1. 下载脚本
@@ -36,7 +36,7 @@ wget -O anytls_manager.sh https://raw.githubusercontent.com/tombfire/AnyTLS-Go/r
 或者
 
 ```bash
-curl -o anytls_manager.sh -L https://raw.githubusercontent.com/tombfire/AnyTLS-Go/refs/heads/main/anytls_manager.sh
+curl -o anytls_manager.sh -L https://raw.githubusercontent.com/TOMBFIRE/AnyTLS-Go-Script/refs/heads/main/anytls_manager.sh
 ```
 
 ### 2\. 赋予执行权限
